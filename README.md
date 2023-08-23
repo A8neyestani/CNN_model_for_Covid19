@@ -37,17 +37,17 @@ The dataset consists of CT scan images labeled as positive (with COVID-19) and n
 ## Usage
 
 1. Clone this repository:
-\```bash
+```bash
 git clone https://github.com/A8neyestani/CNN_model_for_Covid19.git
-\```
+```
 2. Navigate to the directory:
-\```bash
+```bash
 cd CNN_model_for_Covid19
-\```
+```
 3. Run the script:
-\```bash
+```bash
 python CNN_model_for_Covid19.py
-\```
+```
 
 ## Results
 
