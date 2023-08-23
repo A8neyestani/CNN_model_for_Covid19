@@ -38,15 +38,15 @@ The dataset consists of CT scan images labeled as positive (with COVID-19) and n
 
 1. Clone this repository:
 \```bash
-git clone https://github.com/A8neyestani/COVID19-Detection-VGG16.git
+git clone https://github.com/A8neyestani/CNN_model_for_Covid19.git
 \```
 2. Navigate to the directory:
 \```bash
-cd COVID19-Detection-VGG16
+cd CNN_model_for_Covid19
 \```
 3. Run the script:
 \```bash
-python covid19_detection_vgg16.py
+python CNN_model_for_Covid19.py
 \```
 
 ## Results
